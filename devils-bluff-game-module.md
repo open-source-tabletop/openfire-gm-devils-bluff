@@ -5,8 +5,8 @@ Devils Bluff is a Wild West Skirmish Module for the Open Fire system.
 
 You will need [the core rules for Open Fire](https://github.com/open-source-tabletop/openfire/) to play this game.
 
-**Section 1 - The Setting**
-===========================
+**Section 1 - Setting**
+=======================
 
 <!-- 
 
